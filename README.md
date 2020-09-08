@@ -23,7 +23,7 @@ Stock performances has went down drastically from 2017 to 2018, as indicated in 
 
 <img width="243" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/68725398/92528599-087f5480-f1f7-11ea-8ae2-266d220c6982.png">
 
-There does not seem to be a huge difference with the run time from the original script vs the refactored script with the differences being quite negligible (within .05 of each other). However, the original script was faster than the refactored script during each of the tested runs. This might be due to the original script not using an array to store the data and instead, opting to directly update the "All Stocks Analysis" sheet after each ticker change and immediately continuining from where it was left off on the specified year's dataset.
+Above image is run using the refactored code. There does not seem to be a huge difference with the run time from the original script vs the refactored script with the differences being quite negligible (within .05 of each other). However, the original script was faster than the refactored script during each of the tested runs. This might be due to the original script not using an array to store the data and instead, opting to directly update the "All Stocks Analysis" sheet after each ticker change and immediately continuining from where it was left off on the specified year's dataset.
 
 ## Summary
 
